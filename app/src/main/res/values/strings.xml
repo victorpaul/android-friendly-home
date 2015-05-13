@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Friendly Home</string>
+    <string name="hello_world">Привіт жека, додай на робочий стіл віджет Home</string>
+    <string name="action_settings">Settings</string>
+    <string name="appwidget_text">Home</string>
+    <string name="add_widget">Add widget</string>
+</resources>
